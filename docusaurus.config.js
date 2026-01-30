@@ -59,28 +59,11 @@ const config = {
           alt: 'Logo PSE',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutoriais', 
-          },
-        ],
+        items: [],
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Acesso Rápido',
-            items: [
-              {
-                label: 'Começar',
-                to: '/docs/Tutoriais/video-01',
-              },
-            ],
-          },
-        ], 
+        links: [], 
         copyright: `Copyright © ${new Date().getFullYear()} Ajuda PSE.`, 
       },
       prism: {
