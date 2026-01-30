@@ -4,8 +4,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ajuda PSE',     // <--- NOME DO SITE ARRUMADO
-  tagline: '',            // <--- SLOGAN LIMPO
+  title: 'Ajuda PSE',     
+  tagline: '',            
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
